@@ -155,9 +155,10 @@ co@^4.6.0:
   version "4.6.0"
   resolved "https://registry.yarnpkg.com/co/-/co-4.6.0.tgz#6ea6bdf3d853ae54ccb8e47bfa0bf3f9031fb184"
 
-codemirror@^5.31.0:
-  version "5.31.0"
-  resolved "https://registry.yarnpkg.com/codemirror/-/codemirror-5.31.0.tgz#ecf3d057eb74174147066bfc7c5f37b4c4e07df2"
+codemirror@^5.54.0:
+  version "5.54.0"
+  resolved "https://registry.yarnpkg.com/codemirror/-/codemirror-5.54.0.tgz#82b6adf662b29eeb7b867fe7839d49e25e4a0b38"
+  integrity sha512-Pgf3surv4zvw+KaW3doUU7pGjF0BPU8/sj7eglWJjzni46U/DDW8pu3nZY0QgQKUcICDXRkq8jZmq0y6KhxM3Q==
 
 color-convert@^1.9.0:
   version "1.9.0"
